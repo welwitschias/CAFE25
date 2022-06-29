@@ -10,4 +10,4 @@
 + 반응형 🚀
 + 깃허브 페이지
  
-[프로젝트 링크](https://welwitschias.github.io/CAFE25/)
+[프로젝트 링크](https://welwitschias.github.io/CSS_CAFE25/)
