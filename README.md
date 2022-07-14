@@ -1,6 +1,6 @@
 # CAFE25
 
->수업용 html css 예제 완성
+>수업용 HTML, CSS 예제 완성
 
 + 기본 HTML (Nav, Section, footer)
 + 폰트 오썸 아이콘 사용 💖
@@ -11,3 +11,5 @@
 + 깃허브 페이지
  
 [프로젝트 링크](https://welwitschias.github.io/CSS_CAFE25/)
+
++ Git clone으로 수업시간에 추가한 내용 push
